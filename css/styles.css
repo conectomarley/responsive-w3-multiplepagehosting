@@ -13,3 +13,10 @@ body {
   border-radius: 16px;
   padding: 30px;
 }
+
+h3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 10;
+  color: gray;
+}
